@@ -8,11 +8,10 @@
 
 ## 🚀 Sobre Mí
 
-**Desarrollador Backend especializado en Python y Django** con más de 2 años de experiencia autodidacta y +1 año de formación académica en Platzi. Actualmente expandiendo mis horizontes hacia la **Ciencia de Datos** mientras curso el Tecnólogo en **Análisis y Desarrollo de Software** en el SENA.
+**Desarrollador Backend especializado en Python y Django** con más de 3 años de experiencia autodidacta y +2 año de formación académica en Platzi y actualmente expandiendo mis conociminetos al estudiar en la carrera Tecnologica de ADSO (Analisis y Desarrollo de Software) desde Junio 2025 en el Sena Colombia.
 
 ### 🎯 Mi Enfoque
-- 💻 **Backend Development**: Creación de APIs robustas y escalables
-- 📊 **Data Science**: Explorando el mundo de los datos y machine learning
+- 💻 **FullStack Development**: Creación de Paginas webs completas junto con la creacion de APIs
 - 🛠️ **Problem Solving**: Transformando ideas en soluciones tecnológicas
 
 ---
