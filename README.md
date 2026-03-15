@@ -90,9 +90,9 @@
 
 ```
 🎓 SENA - Tecnólogo en Análisis y Desarrollo de Software (En curso)
-📚 Platzi - +1 año de formación continua en desarrollo
-🔍 Autodidacta - +2 años explorando tecnologías
-🚀 Actualmente - Especializándome en Data Science
+📚 Platzi - +2 año de formación continua en desarrollo
+🔍 Autodidacta - +3 años explorando tecnologías
+🚀 Actualmente - Especializándome en otras tecnologias para el Full-Stack
 ```
 
 ---
